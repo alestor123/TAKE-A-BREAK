@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var option = require('minimist')(process.argv.slice(2)),
 message = option.m || option.message || 'Take A Break',
 time = option.t || option.time || 1,
