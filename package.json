@@ -1,10 +1,10 @@
 {
-  "name": "take-a-break",
+  "name": "break-cli",
   "version": "1.0.0",
   "description": "This is a simple code for showing a popup to take a break",
   "main": "App.js",
   "bin": {
-    "take-a-break": "App.js"
+    "break-cli": "App.js"
   },
   "dependencies": {
     "minimist": "^1.2.5",
