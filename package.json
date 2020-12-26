@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for showing a popup to take a break",
   "main": "App.js",
+  "bin": {
+    "take-a-break": "App.js"
+  },
   "dependencies": {
     "minimist": "^1.2.5",
     "node-notifier": "^9.0.0"
