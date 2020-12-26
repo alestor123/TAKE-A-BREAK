@@ -1,0 +1,24 @@
+{
+  "name": "take-a-break",
+  "version": "1.0.0",
+  "description": "This is a simple code for showing a popup to take a break",
+  "main": "App.js",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "node-notifier": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/TAKE-A-BREAK.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/TAKE-A-BREAK/issues"
+  },
+  "homepage": "https://github.com/alestor123/TAKE-A-BREAK#readme"
+}
